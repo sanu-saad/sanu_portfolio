@@ -1,3 +1,16 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #999;
+  /* border: solid #fff; */
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #777;
+}
+::-webkit-scrollbar-thumb:vertical {
+  border-width: 1px 1px;
+}
 /* GENERAL */
 body {
   background-color: #212121;
